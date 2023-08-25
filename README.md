@@ -2,7 +2,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/Darkksoul/mirror-leech-telegram-bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/anasty17/mirror-leech-telegram-bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 # Features
 
