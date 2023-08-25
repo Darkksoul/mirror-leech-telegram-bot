@@ -1,5 +1,9 @@
 This is a Telegram Bot written in Python for mirroring files on the Internet to your Google Drive, Telegram or to any rclone supported cloud. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
+## Deploy To Heroku
+
+<a href="https://heroku.com/deploy?template=https://github.com/Darkksoul/mirror-leech-telegram-bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+
 # Features
 
 ## By [anasty17](https://github.com/anasty17)
